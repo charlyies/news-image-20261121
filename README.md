@@ -1,8 +1,8 @@
 # news-image-20261121
 
-![bounty](https://make.fun/badge/news-image-20261121.svg)
-![rank](https://make.fun/badge/news-image-20261121/charlyies/news-image-20261121/rank.svg)
-![reward](https://make.fun/badge/news-image-20261121/charlyies/news-image-20261121/reward.svg)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![make.fun · rank](https://make.fun/badge/news-image-20261121/charlyies/news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![make.fun · reward](https://make.fun/badge/news-image-20261121/charlyies/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
 A one-image summary of **Saturday 21 November 2026**'s world news, drawn as a
 newspaper front page — **THE WORLD TODAY**.
